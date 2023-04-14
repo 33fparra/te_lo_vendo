@@ -3,8 +3,11 @@ body{
 }
 .titulo{
     text-align: center;
+    color: white;
     margin-top: 20px;
     margin-bottom: 20px;
+    font-weight: 900;
+    font-family: 'Tilt Prism', cursive;
 }
 
 .container{
