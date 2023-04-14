@@ -1,5 +1,18 @@
+body{
+    background-color: azure;
+}
+.titulo{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 .container{
-    margin-bottom: 100px !important;
+    margin-bottom: 15px !important;
+}
+
+#abajo{
+    margin-bottom: 150px !important;
 }
 
 footer {
